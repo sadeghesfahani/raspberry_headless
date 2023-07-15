@@ -33,9 +33,9 @@ To enable SSH on your Raspberry Pi, you need to create a file named `ssh` withou
 
 This file acts as a flag, and the Raspberry Pi will enable SSH if it sees this file in the boot partition.
 
-## Step 4: Set Up WiFi
+## Step 4: Set Up Wi-Fi
 
-To enable your Raspberry Pi to connect to WiFi, you need to create a file called `wpa_supplicant.conf` in the boot partition. This file contains the WiFi network details.
+To enable your Raspberry Pi to connect to Wi-Fi, you need to create a file called `wpa_supplicant.conf` in the boot partition. This file contains the WiFi network details.
 
 1. Insert the microSD card back into your computer.
 2. Open a text editor and create a new file.
